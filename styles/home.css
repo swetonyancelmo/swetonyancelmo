@@ -1,0 +1,40 @@
+#home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  font-size: 16pt;
+  height: 87vh;
+  /* margin-top: 50px; */
+}
+
+#cta {
+  color: #bebebe;
+}
+
+.contacts {
+  display: flex;
+  align-items: center;
+  justify-content:center ;
+  gap: 20px;
+  padding: 10px;
+}
+
+.link-contacts i{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+
+  width: 55px;
+  height: 40px;
+  border-radius: 10px;
+  transition: .1s;
+  background-color: #00ABE4;
+  color: #E7F1FA;
+}
+
+.link-contacts i:hover {
+  transform: scale(1.1);
+}

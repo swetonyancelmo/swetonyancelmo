@@ -1,0 +1,33 @@
+header {
+  position: fixed;
+  top: 0; /* Fixa no topo */
+  left: 0; /* Alinha ao lado esquerdo */
+  width: 100%;
+  background-color: #dcdddf;
+}
+
+#nav_items {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  padding: 2%;
+}
+
+#nav_items li, a {
+  text-decoration: none;
+  list-style: none;
+  color: #1B355C;
+
+  font-size: 14pt;
+  font-weight: 500;
+  transition: .2s ease;
+}
+
+#nav_items a:hover {
+  color: #284d85; 
+}
+
+#nav_items li:hover {
+  transform: scale(1.1);
+}
