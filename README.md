@@ -5,7 +5,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! Eu sou Swetony Ancelmo
- 👩🏻‍💻 Sou um desenvolvedor Back-End, em constante evolução e apaixonado por tecnologia.<br>
+ 👩🏻‍💻 Sou um desenvolvedor FullStack, em constante evolução e apaixonado por tecnologia.<br>
  👩‍🎓 Acadêmico em ADS na Unibra<br>
 </div>
 
