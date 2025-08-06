@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Pode+me+chamar+de+Tony!+%F0%9F%98%81;Sou+Desenvolvedor+Front-End;Especialista+em+JavaScript+e+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Pode+me+chamar+de+Tony!+%F0%9F%98%81;Sou+Desenvolvedor+Full-Stack;Especialista+em+Java+e+React)](https://git.io/typing-svg)
 
 ---
 <h1>👩🏽‍💻 Sobre mim: </h1>
 
 - 🎓 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas - Unibra
-- ☕ Atuando como <strong>Desenvolvedor Front-End</strong>
+- ☕ Atuando como <strong>Desenvolvedor Full-Stack</strong>
 - 👩‍💻 <strong>Desenvolvimento Web</strong>
 
 ---
