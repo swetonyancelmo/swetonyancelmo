@@ -1,6 +1,4 @@
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/billy.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/billy.gif" alt="Wall-E GIF" style="width:auto; height:auto" align="center" />
-</a>
+
 
 <div align="center">
 
