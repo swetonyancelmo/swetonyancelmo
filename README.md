@@ -3,9 +3,7 @@
 <div align="center">
 
 <br/>
-<br/>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 <h3 align="center">💫 Sobre mim</h3>
 <p>
   🔭 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas<br>
@@ -23,7 +21,7 @@
 
 <br/>
 <br/>
-<br/>
+
 
 <h3 align="center">📚 Linguagens e ferramentas que utilizo/utilizei</h3>
 <div align="center">
@@ -32,11 +30,6 @@
 
 <br/>
 <br/>
-<br/>
-
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/alone.gif">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/alone.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
-</a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 <p align="center">
