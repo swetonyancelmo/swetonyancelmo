@@ -1,9 +1,5 @@
 
-
 <div align="center">
-
-<br/>
-
 <h3 align="center">💫 Sobre mim</h3>
 <p>
   🔭 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas<br>
