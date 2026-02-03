@@ -1,10 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 <div align="center">
-<h3 align="center">💫 Sobre mim</h3>
-<p>
-  🔭 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas<br>
-  ⚡ Atualmente sou <strong>estagiário</strong> em Desenvolvimento Back-End com <strong>Java e Spring Boot</strong> <br>
-</p>
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Swetony Ancelmo
+ 👩🏻‍💻 Sou um desenvolvedor backend, criativo e apaixonado por tecnologia.<br>
+ 👩‍🎓 Graduando em Análise e Desenvolvimento de Sistemas na Unibra<br>
+</div>
 
 <br/>
 
@@ -21,13 +23,15 @@
 
 <h3 align="center">📚 Linguagens e ferramentas que utilizo/utilizei</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,javascript,typescript,nodejs,nestjs,docker,gcp,aws,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,kubernetes,gcp,aws,github,postman" />
 </div>
 
 <br/>
-<br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-<p align="center">
-  ⚠️ Este README foi desenvolvido exclusivamente por <strong>@SwetonyAncelmo</strong>
-</p>
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
