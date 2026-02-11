@@ -8,6 +8,14 @@
  👩‍🎓 Graduando em Análise e Desenvolvimento de Sistemas na Unibra<br>
 </div>
 
+<div align="center">
+
+| ![Swetony Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swetonyancelmo&mode-daily&theme=github_dark&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swetonyancelmo&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swetonyancelmo&theme=github_dark) |
+| :-: | :-: | :-: |
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swetonyancelmo&theme=github_dark) 
+</div>
+
 <br/>
 
 <h3>🧲 Entre em contato comigo:</h3>
