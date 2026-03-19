@@ -4,7 +4,7 @@
   <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I am Swetony Ancelmo</h2>
   <p>
     👨‍💻 <strong>Software Developer</strong> focused on building scalable web applications<br>
-    🚀 Passionate about backend with <strong>Java & Spring Boot</strong> and modern frontends with <strong>Angular & React</strong><br>
+    🚀 Passionate about backend with <strong>Java & Spring Boot</strong> and modern frontends with <strong>Angular</strong><br>
     🎯 Currently improving my skills in fullstack development and system design
   </p>
 
