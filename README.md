@@ -17,14 +17,6 @@
 
 <br>
 
-## ⚡ About Me
-- 🔭 Currently working on a **full-stack e-commerce application** and an **appointment scheduling system**.
-- 🌱 Currently learning **Ionic with Angular** for cross-platform mobile development.
-- 👯 Looking to collaborate on **Java/Spring Boot** and **React/TypeScript** projects.
-- 💬 Ask me about **RESTful APIs, JWT authentication, and database integrations (like Firebird to PostgreSQL)**.
-
-<br>
-
 ## 💻 Technologies
 
 <table>
