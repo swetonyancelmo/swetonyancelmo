@@ -37,6 +37,8 @@
     </tr>
     <tr>
       <td>
+        <img src="https://skillicons.dev/icons?i=nest" width="28"/> <img src="https://img.shields.io/badge/Nest-242938?style=for-the-badge&logo=nestjs&logoColor=E34F26"/>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="28"/> <img src="https://img.shields.io/badge/Node-242938?style=for-the-badge&logo=node&logoColor=00FF00"/>
         <img src="https://skillicons.dev/icons?i=react" width="28"/> <img src="https://img.shields.io/badge/React-242938?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         <img src="https://skillicons.dev/icons?i=js" width="28"/> <img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
         <img src="https://skillicons.dev/icons?i=html" width="28"/> <img src="https://img.shields.io/badge/HTML-242938?style=for-the-badge&logo=html5&logoColor=E34F26"/>
