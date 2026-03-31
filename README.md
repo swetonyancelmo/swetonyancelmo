@@ -86,12 +86,6 @@
 - Product management, inventory movement, order creation, and inventory movement history
 - 👉 [Project Repository](https://github.com/swetonyancelmo/ecommerce-api)
 
-🔹 **Paytrack API** <br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) <br>
-- REST API with JWT authentication
-- Allows you to manage income, expenses, and view financial summaries
-- 👉 [Project Repository](https://github.com/swetonyancelmo/paytrack-api)
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
