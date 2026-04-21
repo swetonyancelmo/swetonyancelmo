@@ -27,7 +27,7 @@ Sinta-se à vontade para entrar em contato por e-mail ou DM no LinkedIn se quise
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=next,kubernetes,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nodejs,kubernetes,docker,aws)](https://skillicons.dev)
 
 </div>
 
