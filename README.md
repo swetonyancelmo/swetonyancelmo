@@ -17,7 +17,7 @@ Sinta-se à vontade para entrar em contato por e-mail ou DM no LinkedIn se quise
 
 * Apaixonado por backend com Java e Spring Boot e frontends modernos com Angular
 
-* Desenvolvimento Back-end & DevSecOps
+* Desenvolvimento Back-end
 
 ---
 
