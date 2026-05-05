@@ -1,6 +1,6 @@
 <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Bem vindo ao meu perfil!</h2>
 
-Meu nome é Swetony Ancelmo, e eu sou Desenvolvedor de Software no Brasil!
+Meu nome é Swetony Ancelmo, e eu sou Desenvolvedor de Software!
 
 Atualmente sou estagiário como desenvolvedor full-stack, com foco em construir sistemas robustos, 
 escaláveis e de alta performance, unindo fundamentos sólidos de engenharia de software com visão 
@@ -10,22 +10,11 @@ Sinta-se à vontade para entrar em contato por e-mail ou DM no LinkedIn se quise
 
 ---
 
-## Principais interesses
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-
-* Arquitetura de software & Systems Design
-
-* Apaixonado por backend com Java e Spring Boot e frontends modernos com Angular
-
-* Desenvolvimento Back-end
-
----
-
 <div align="center">
 
 <h2>Tecnologias & GitHub Stats</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,react)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=next,nodejs,kubernetes,docker,aws)](https://skillicons.dev)
 
@@ -36,7 +25,7 @@ Sinta-se à vontade para entrar em contato por e-mail ou DM no LinkedIn se quise
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swetonyancelmo&layout=compact&theme=gotham)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swetonyancelmo&theme=gotham)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwetonyAncelmo&layout=compact&theme=gotham&area=true&hide_border=false" width="100%"/>
 
 </div>
 
