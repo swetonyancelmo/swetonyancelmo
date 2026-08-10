@@ -45,7 +45,7 @@ const swetony = {
     backend:  ["Java", "Spring Boot", "Node.js", "NestJS"],
     frontend: ["Angular", "React", "Next.js", "TypeScript"],
     data:     ["PostgreSQL", "Redis"],
-    infra:    ["Docker", "Kafka"],
+    infra:    ["Docker", "Kubernetes", "Kafka"],
   },
  
   goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
