@@ -43,7 +43,7 @@ const swetony = {
  
   stack: {
     backend:  ["Java", "Spring Boot", "Node.js", "NestJS"],
-    frontend: ["Angular", "React", "Next.js", "TypeScript"],
+    frontend: ["React", "Next.js", "TypeScript"],
     data:     ["PostgreSQL", "Redis"],
     infra:    ["Docker", "Kubernetes", "Kafka"],
   },
@@ -64,7 +64,7 @@ const swetony = {
 **Linguagens & Frameworks**
  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,typescript,javascript,angular,react,next,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,typescript,javascript,react,next,tailwind&theme=dark"/>
 </a>
 
 **Dados & Mensageria**
