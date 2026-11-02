@@ -3,7 +3,7 @@
 <!-- ============================= TYPING ============================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Swetony+%F0%9F%91%8B;Desenvolvedor+Full-Stack+com+foco+em+Backend;Java+%7C+Spring+Boot+%7C+NestJS+%7C+Angular+%7C+React;Clean+Architecture%2C+Kafka+e+Microsservicos;Construindo+sistemas+robustos+e+escal%C3%A1veis!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Swetony+%F0%9F%91%8B;Desenvolvedor+Full-Stack+com+foco+em+Backend;Java+%7C+Spring+Boot+%7C+NestJS+%7C+Next.js;Clean+Architecture%2C+Kafka+e+Microsservicos;Construindo+sistemas+robustos+e+escal%C3%A1veis!" alt="Typing SVG"/>
   </a>
 </p>
 <!-- ============================= BADGES ============================= -->
@@ -24,37 +24,32 @@
  
 ```typescript
 const swetony = {
-  role: "Full-Stack Developer • Estagiário",
-  location: "Brasil 🇧🇷",
-  education: "Análise e Desenvolvimento de Sistemas",
- 
-  workingOn: [
-    "APIs REST em produção com NestJS + TypeORM",
-    "Frontends com Next.js",
-    "Queries SQL analíticas para investigação de inconsistências em dados clínicos",
-  ],
- 
-  learning: [
-    "Clean Architecture",
-    "Microsserviços",
-    "Kubernetes & Cloud Native",
-    "System Design",
-  ],
- 
-  stack: {
-    backend:  ["Java", "Spring Boot", "Node.js", "NestJS"],
-    frontend: ["React", "Next.js", "TypeScript"],
-    data:     ["PostgreSQL", "Redis"],
-    infra:    ["Docker", "Kubernetes", "Kafka"],
-  },
- 
-  goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
+role: "Desenvolvedor Full Stack Júnior • Estagiário na Marques Consult",
+location: "Recife, PE 🇧🇷",
+education: "Análise e Desenvolvimento de Sistemas • UNIBRA (2027)",
+
+workingOn: [
+"I Marq 360°: indicadores de saúde pública usados por ~80 municípios",
+"APIs GraphQL com NestJS + TypeORM",
+"Telas em Next.js + React",
+"SQL analítico, ETL em Python e pipeline para ClickHouse com Kafka",
+],
+
+proudOf: [
+"Líder técnico do sistema da ONG Amigos do Nordeste (2.500+ famílias)",
+"Rastrear um LEFT JOIN que derrubava 78% da base de um indicador",
+],
+
+stack: {
+backend: ["NestJS", "GraphQL", "Node.js", "Java", "Spring Boot"],
+frontend: ["Next.js", "React", "TypeScript", "React Native"],
+data: ["PostgreSQL", "Python (ETL)", "ClickHouse", "Redis"],
+infra: ["Docker", "Kafka", "GitHub Actions", "Linux"],
+},
+
+goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
 };
 ```
- 
-> 💡 Gosto de discutir decisões técnicas, trade-offs de arquitetura e por que "depende" quase sempre é a resposta certa. Chama no LinkedIn ou manda um e-mail!
- 
-<br/>
 <!-- ============================= STACK ============================= -->
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -64,7 +59,7 @@ const swetony = {
 **Linguagens & Frameworks**
  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,typescript,javascript,react,next,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,typescript,javascript,react,next,tailwind,python&theme=dark"/>
 </a>
 
 **Dados & Mensageria**
@@ -76,7 +71,7 @@ const swetony = {
 **Infra & DevOps**
  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark"/>
 </a>
 <br/>
 
@@ -94,27 +89,20 @@ const swetony = {
 ## 🚀 Projetos em destaque
  
 <div align="center">
-<a href="https://github.com/swetonyancelmo/wallet-clean-arch">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=wallet-clean-arch&theme=nord&hide_border=true"/>
+<a href="https://github.com/swetonyancelmo/amigos-do-nordeste-api">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=amigos-do-nordeste-api&theme=nord&hide_border=true"/>
 </a>
-<a href="https://github.com/swetonyancelmo/ecommerce-microservices">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=ecommerce-microservices&theme=nord&hide_border=true"/>
+<a href="https://github.com/swetonyancelmo/amigos-do-nordeste-web">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=amigos-do-nordeste-web&theme=nord&hide_border=true"/>
 </a>
 <a href="https://github.com/swetonyancelmo/medsys-api">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=medsys-api&theme=nord&hide_border=true"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=medsys-api&theme=nord&hide_border=true"/>
 </a>
-<a href="https://github.com/swetonyancelmo/monify">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=monify&theme=nord&hide_border=true"/>
+<a href="https://github.com/swetonyancelmo/event-registration">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=swetonyancelmo&repo=event-registration&theme=nord&hide_border=true"/>
 </a>
 </div>
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **wallet-clean-arch** | Carteira digital aplicando Clean Architecture — domínio isolado, casos de uso e inversão de dependência | `NestJS` `TypeScript` |
-| **ecommerce-microservices** | Ecossistema de microsserviços com service discovery, API Gateway e resiliência | `Spring Boot` `Eureka` `Resilience4j` |
-| **medsys-api** | API de gestão de clínica médica com autenticação JWT e rotação de refresh token | `Spring Boot` `Spring Security` `Flyway` |
-| **monify** | API de gestão financeira pessoal — modelagem de contas, categorias e transações, com migrations versionadas e ambiente containerizado | `Spring Boot` `PostgreSQL` `Flyway` `Docker` |
- 
 <br/>
 <!-- ============================= STATS ============================= -->
 
@@ -128,12 +116,6 @@ const swetony = {
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swetonyancelmo&theme=nord_dark"/>
 </div>
 
-### 📈 Gráfico de contribuições
- 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swetonyancelmo&theme=nord&area=true&hide_border=true&bg_color=0d1b2a&color=2E86C1&line=2E86C1&point=ffffff&title_color=ffffff"/>
-</div>
-<br/>
 <!-- ============================= CONTATO ============================= -->
 
 ## 🌐 Onde me encontrar
@@ -144,6 +126,9 @@ const swetony = {
 </a>
 <a href="mailto:swetonyancelmo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://about-swetony.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/swetony_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
