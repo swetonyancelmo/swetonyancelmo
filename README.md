@@ -29,7 +29,7 @@ location: "Recife, PE 🇧🇷",
 education: "Análise e Desenvolvimento de Sistemas • UNIBRA (2027)",
 
 workingOn: [
-"I Marq 360°: indicadores de saúde pública usados por ~80 municípios",
+"Plataforma de indicadores de saúde pública usada por ~80 municípios",
 "APIs GraphQL com NestJS + TypeORM",
 "Telas em Next.js + React",
 "SQL analítico, ETL em Python e pipeline para ClickHouse com Kafka",
