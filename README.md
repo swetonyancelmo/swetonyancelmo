@@ -50,6 +50,7 @@ infra: ["Docker", "Kafka", "GitHub Actions", "Linux"],
 goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
 };
 ```
+💡 Gosto de discutir decisões técnicas, trade-offs de arquitetura e por que "depende" quase sempre é a resposta certa. Registro as minhas em ADRs e uso agentes de IA (Claude Code) como ferramenta, sempre com revisão e testes. Chama no LinkedIn ou manda um e-mail!
 <!-- ============================= STACK ============================= -->
 
 ## 🛠️ Tecnologias & Ferramentas
