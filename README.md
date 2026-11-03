@@ -25,7 +25,7 @@
 ```typescript
 const swetony = {
   role: "Desenvolvedor Full Stack Júnior • Estagiário na Marques Consult",
-  location: "Recife, PE 🇧🇷",
+  location: "Limoeiro, PE 🇧🇷",
   education: "Análise e Desenvolvimento de Sistemas • UNIBRA (2027)",
 
   workingOn: [
