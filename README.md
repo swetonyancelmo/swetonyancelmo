@@ -24,30 +24,30 @@
  
 ```typescript
 const swetony = {
-role: "Desenvolvedor Full Stack Júnior • Estagiário na Marques Consult",
-location: "Recife, PE 🇧🇷",
-education: "Análise e Desenvolvimento de Sistemas • UNIBRA (2027)",
+  role: "Desenvolvedor Full Stack Júnior • Estagiário na Marques Consult",
+  location: "Recife, PE 🇧🇷",
+  education: "Análise e Desenvolvimento de Sistemas • UNIBRA (2027)",
 
-workingOn: [
-"Plataforma de indicadores de saúde pública usada por ~80 municípios",
-"APIs GraphQL com NestJS + TypeORM",
-"Telas em Next.js + React",
-"SQL analítico, ETL em Python e pipeline para ClickHouse com Kafka",
-],
+  workingOn: [
+    "Plataforma de indicadores de saúde pública usada por ~80 municípios",
+    "APIs GraphQL com NestJS + TypeORM",
+    "Telas em Next.js + React",
+    "SQL analítico, ETL em Python e pipeline para ClickHouse com Kafka",
+  ],
 
-proudOf: [
-"Líder técnico do sistema da ONG Amigos do Nordeste (2.500+ famílias)",
-"Rastrear um LEFT JOIN que derrubava 78% da base de um indicador",
-],
+  proudOf: [
+    "Líder técnico do sistema da ONG Amigos do Nordeste (2.500+ famílias)",
+    "Rastrear um LEFT JOIN que derrubava 78% da base de um indicador",
+  ],
 
-stack: {
-backend: ["NestJS", "GraphQL", "Node.js", "Java", "Spring Boot"],
-frontend: ["Next.js", "React", "TypeScript", "React Native"],
-data: ["PostgreSQL", "Python (ETL)", "ClickHouse", "Redis"],
-infra: ["Docker", "Kafka", "GitHub Actions", "Linux"],
-},
+  stack: {
+    backend:  ["NestJS", "GraphQL", "Node.js", "Java", "Spring Boot"],
+    frontend: ["Next.js", "React", "TypeScript", "React Native"],
+    data:     ["PostgreSQL", "Python (ETL)", "ClickHouse", "Redis"],
+    infra:    ["Docker", "Kafka", "GitHub Actions", "Linux"],
+  },
 
-goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
+  goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
 };
 ```
 💡 Gosto de discutir decisões técnicas, trade-offs de arquitetura e por que "depende" quase sempre é a resposta certa. Registro as minhas em ADRs e uso agentes de IA (Claude Code) como ferramenta, sempre com revisão e testes. Chama no LinkedIn ou manda um e-mail!
@@ -60,25 +60,27 @@ goal: "Evoluir de estagiário a engenheiro backend sênior 🚀",
 **Linguagens & Frameworks**
  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,typescript,javascript,react,next,tailwind,python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,graphql,typescript,javascript,react,next,tailwind,python&theme=dark"/>
 </a>
 
 **Dados & Mensageria**
  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,rabbitmq&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark"/>
 </a>
 
 **Infra & DevOps**
  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github&theme=dark"/>
 </a>
 <br/>
 
 **Também trabalho com**
  
 <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
